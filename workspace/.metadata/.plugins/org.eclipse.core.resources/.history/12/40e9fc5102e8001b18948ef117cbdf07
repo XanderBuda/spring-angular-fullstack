@@ -1,0 +1,7 @@
+INSERT INTO clientes (nombre, apellidos, email, create_at) VALUES('Alexandru Aurel', 'Buda','abuda@test.com','2021-01-01');
+INSERT INTO clientes (nombre, apellidos, email, create_at) VALUES('Alexandru Aurel', 'Buda','abuda@test.com','2021-01-01');
+INSERT INTO clientes (nombre, apellidos, email, create_at) VALUES('Alexandru Aurel', 'Buda','abuda@test.com','2021-01-01');
+INSERT INTO clientes (nombre, apellidos, email, create_at) VALUES('Alexandru Aurel', 'Buda','abuda@test.com','2021-01-01');
+INSERT INTO clientes (nombre, apellidos, email, create_at) VALUES('Alexandru Aurel', 'Buda','abuda@test.com','2021-01-01');
+INSERT INTO clientes (nombre, apellidos, email, create_at) VALUES('Alexandru Aurel', 'Buda','abuda@test.com','2021-01-01');
+
